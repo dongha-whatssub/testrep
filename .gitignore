@@ -1,0 +1,5 @@
+.venv/
+.jsonl
+.json
+*.txt
+.DS_Store
